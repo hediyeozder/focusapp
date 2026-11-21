@@ -18,12 +18,17 @@ Pomodoro timer and focus tracker for Android, built with Kotlin.
 - Intents for navigation and data passing
 
 ## Screenshots
-<img width="540" height="1200" alt="Screenshot_20261121_142006" src="https://github.com/user-attachments/assets/6775a130-c267-4219-926f-7c449a7e229a" />
-<img width="540" height="1200" alt="Screenshot_20261121_141955" src="https://github.com/user-attachments/assets/5e3c4fab-109c-41db-8638-e75166b0d3aa" />
-<img width="540" height="1200" alt="Screenshot_20261121_141355" src="https://github.com/user-attachments/assets/1d606b0f-1948-4890-a51b-bf68c2bda965" />
-<img width="540" height="1200" alt="Screenshot_20261121_141342" src="https://github.com/user-attachments/assets/1d24f6ff-4ef4-4a44-b632-1bb867b03afb" />
-<img width="540" height="1200" alt="Screenshot_20261121_141335" src="https://github.com/user-attachments/assets/3461618c-9aac-40c1-809a-5f7bead1f0fc" />
-<img width="540" height="1200" alt="Screenshot_20261121_141314" src="https://github.com/user-attachments/assets/79243a4c-3192-41a2-8243-35ed7cbfe16a" />
+<img width="150" height="333" alt="Screenshot_20261121_141314" src="https://github.com/user-attachments/assets/79243a4c-3192-41a2-8243-35ed7cbfe16a" />
+<img width="150" height="333" alt="Screenshot_20261121_141335" src="https://github.com/user-attachments/assets/3461618c-9aac-40c1-809a-5f7bead1f0fc" />
+<img width="150" height="333" alt="Screenshot_20261121_141342" src="https://github.com/user-attachments/assets/1d24f6ff-4ef4-4a44-b632-1bb867b03afb" />
+<img width="150" height="333" alt="Screenshot_20261121_141355" src="https://github.com/user-attachments/assets/1d606b0f-1948-4890-a51b-bf68c2bda965" />
+<img width="150" height="333" alt="Screenshot_20261121_141955" src="https://github.com/user-attachments/assets/5e3c4fab-109c-41db-8638-e75166b0d3aa" />
+<img width="150" height="333" alt="Screenshot_20261121_142006" src="https://github.com/user-attachments/assets/6775a130-c267-4219-926f-7c449a7e229a" />
+
+
+
+
+
 
 
 ## Roadmap
