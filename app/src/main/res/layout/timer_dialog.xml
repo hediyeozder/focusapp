@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingStart="30dp"
+    android:paddingEnd="30dp"
+    android:paddingTop="25dp"
+    android:paddingBottom="25dp"
+    android:clipToPadding="false"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:id="@+id/timerType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="countdown" />
+
+    <TextView
+        android:id="@+id/txtMinuteDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="25 : 00"
+        android:textSize="30sp" />
+
+    <SeekBar
+        android:id="@+id/pomoSeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:max="115"
+        android:progress="20" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_marginTop="30dp"
+        android:text="BAŞLAT" />
+
+</LinearLayout>
